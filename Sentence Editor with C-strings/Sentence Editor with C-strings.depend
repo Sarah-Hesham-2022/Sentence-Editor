@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590353896 source:c:\users\Â‘«„\desktop\sentence editor with c-strings\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<cctype>
+
