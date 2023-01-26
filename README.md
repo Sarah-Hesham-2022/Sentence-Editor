@@ -1,6 +1,8 @@
 # Sentence-Editor
 Sentence Editor using C++ .
 
+-I have made 2 projects ; one with C++ Strings and the other with C++ Charcaters Strings .
+
 ![image](https://user-images.githubusercontent.com/112272836/214913576-9ad24d09-8b02-4477-8682-8fd389e1f9a6.png)
 
 ![image](https://user-images.githubusercontent.com/112272836/214913613-30420e68-6367-41b1-8a2d-a0c723ce83eb.png)
